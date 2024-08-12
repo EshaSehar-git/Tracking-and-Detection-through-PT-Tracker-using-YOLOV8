@@ -22,3 +22,6 @@ It provides real-time detection of multiple objects within images or video frame
 **Improved Architecture**
 **High Speed and Efficiency**
 **Versatility and Flexibility**
+
+## flowchart
+![flowchart](https://github.com/user-attachments/assets/498e6217-a496-48f4-80cb-ee0341ce6541)
