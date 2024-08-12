@@ -9,9 +9,12 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 1. OpenCV provides a vast array of functions for image processing tasks such as filtering, edge detection, image transformations, and color space conversions.
 2. OpenCV includes tools for video capture, processing, and analysis, allowing developers to work with video streams in real-time.
 3. OpenCV offers various object detection algorithms, including pre-trained models for face detection, pedestrian detection, and other specific tasks. The library supports integration with deep learning frameworks like TensorFlow, PyTorch, and Caffe for more advanced object detection and recognition.
-
+To install opencv library , we have to write the following command:
+                                          "pip install opencv-python"
 ## Numpy
 The NumPy library plays a crucial role in tracking and detection tasks within computer vision by providing efficient array operations and mathematical tools that are essential for processing images, video frames, and the data associated with these tasks.
+To install numpy library , we have to write the following command:
+                                              "pip install numpy"
 **Image and Video Frame Representation:** Images and video frames are typically represented as multi-dimensional arrays (e.g., a 2D array for grayscale images, a 3D array for color images). NumPy arrays (ndarrays) are used to store and manipulate these pixel values efficiently.
 **Bounding Boxes and Keypoints:** NumPy arrays are used to represent bounding boxes (as arrays of coordinates) and keypoints (as arrays of points), which are fundamental in object detection and tracking.
 
@@ -22,6 +25,15 @@ It provides real-time detection of multiple objects within images or video frame
 **Improved Architecture**
 **High Speed and Efficiency**
 **Versatility and Flexibility**
-
+To install YOLOV8 library , we have to write the following command:
+                                       "pip install ultralytics"
 ## flowchart
 ![flowchart](https://github.com/user-attachments/assets/498e6217-a496-48f4-80cb-ee0341ce6541)
+
+## Confusion MATRIX
+![confusion_matrix](https://github.com/user-attachments/assets/21464ab2-6dfd-4ec4-9c43-0d3db7f8fe06)
+
+## F1 Curve
+![F1_curve](https://github.com/user-attachments/assets/7fb7eb79-eb9c-433b-86ea-15a7e4ffefa3)
+
+
